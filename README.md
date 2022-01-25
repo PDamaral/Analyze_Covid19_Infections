@@ -3,7 +3,9 @@ Analysis of the growth of cases of Covid-19 infection in Brazilian states - Data
 
 ## Objetivo
 Se trata de um projeto de analise dos dados e insigths, sobre os relatórios de infectados por COVID19 nos estados do Brasil.
+
 *Ciclo 1 - analise dos dados de 25/02/2020 ate 17/11/2020
+
 *Ciclo 2 - analise dos dados de 25/02/2020 ate 22/11/2022 (em desenvolvimento)
 
 ## Resumo do desenvolvimento
